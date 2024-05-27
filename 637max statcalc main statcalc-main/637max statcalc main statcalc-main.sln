@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "637max statcalc main statcalc-main", ".", "{C91748D7-947C-4C86-8B97-1B30E48111B4}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_60877"
+		Debug.AspNetCompiler.PhysicalPath = "..\637max statcalc main statcalc-main\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60877\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_60877"
+		Release.AspNetCompiler.PhysicalPath = "..\637max statcalc main statcalc-main\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60877\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "60877"
+		SlnRelativePath = "..\637max statcalc main statcalc-main\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C91748D7-947C-4C86-8B97-1B30E48111B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C91748D7-947C-4C86-8B97-1B30E48111B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C5F1B39-1377-4BB7-AF7D-7A01FD3AD0E7}
+	EndGlobalSection
+EndGlobal
